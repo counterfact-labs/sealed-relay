@@ -1,0 +1,9 @@
+[
+  "scripts/relay/image.ts",
+  "scripts/relay/toolchain.ts",
+  "scripts/relay/release-config.ts",
+  "scripts/relay/oci.ts",
+  "scripts/relay/command.ts",
+  "scripts/relay/native-bootstrap.ts",
+  "relay/production-config.ts"
+]

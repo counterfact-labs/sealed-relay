@@ -1,0 +1,29 @@
+{
+  "name": "@counterfact-labs/cli",
+  "version": "0.2.3",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.128.0",
+    "zod": "4.6.5",
+    "asn1js": "3.0.6",
+    "pkijs": "3.2.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.39.5",
+    "@types/node": "24.19.0",
+    "esbuild": "0.28.2",
+    "eslint": "9.39.5",
+    "js-yaml": "4.3.2",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.64.0",
+    "@counterfact-labs/analysis-core": "0.7.1",
+    "@counterfact-labs/setup-pings": "0.1.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

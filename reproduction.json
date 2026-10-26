@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "relayVersion": "1.0.1",
+  "runtimeSha256": "41aecba4428661d6333f759522dfd9e549fa8b890d40daba4aa68aa65c328afe",
+  "nodeVersion": "24.21.0",
+  "npmVersion": "11.19.0",
+  "esbuildVersion": "0.28.2",
+  "image": null
+}

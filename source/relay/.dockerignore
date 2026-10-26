@@ -1,0 +1,7 @@
+**
+!Dockerfile
+!runtime.mjs
+!sealed.json
+!release.pub
+!model-credential.enc
+!lock-root

@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2024"],
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "types": ["node"],
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": ["core", "adapters", "cli", "bench", "bundle", "contract", "gatekeeper", "relay", "transport", "packages/core/src", "packages/core/*.ts", "scripts"],
+  "exclude": ["node_modules", ".worktrees"]
+}
